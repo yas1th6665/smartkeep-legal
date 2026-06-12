@@ -1,0 +1,16 @@
+{
+  "short_name": "SmartKeep",
+  "name": "SmartKeep",
+  "icons": [
+    {
+      "src": "icon-playstore.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0A0E1A",
+  "background_color": "#0A0E1A",
+  "orientation": "portrait"
+}
